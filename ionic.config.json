@@ -1,0 +1,7 @@
+{
+  "name": "Primeira Competencia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
